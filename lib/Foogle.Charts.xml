@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>Foogle.Charts</name></assembly>
+<members>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="T:Foogle.GeoChart">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="M:Foogle.Internal.formatTable``1(System.Collections.Generic.IEnumerable{``0})">
+<summary>
+ Format table as a list of lists of values
+</summary>
+</member>
+<member name="M:Foogle.Internal.formatValue(System.Object)">
+<summary>
+ Format value in a JavaScript-friendly way
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="T:Foogle.Internal.FormatValues">
+
+</member>
+<member name="T:Foogle.Internal">
+
+</member>
+<member name="">
+
+</member>
+<member name="T:Foogle.PieChart">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="M:Foogle.SimpleHttp.HttpServer.Stop">
+<summary>
+ Stops the HTTP server and releases the TCP connection
+</summary>
+</member>
+<member name="M:Foogle.SimpleHttp.HttpServer.Start(System.String,System.String)">
+<summary>
+ Starts new HTTP server on the specified URL. The specified
+ function represents computation running inside the agent.
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="T:Foogle.SimpleHttp.HttpServer">
+<summary>
+ Simple HTTP server
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="T:Foogle.SimpleHttp.HttpExtensions">
+
+</member>
+</members>
+</doc>
